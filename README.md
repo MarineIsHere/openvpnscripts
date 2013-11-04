@@ -1,5 +1,5 @@
-THIS VERSION IS FOR OPENVZ / PROXMOX 3 (not tested on Proxmox 2) USE !
-Cette version est pour un usage avec OpenVZ / Proxmox 3 (non testé sous Proxmox 2) !
+OPENVPN AUTO-INSTALLER FOR OPENVZ / PROXMOX 3 (not tested on Proxmox 2) USE !
+Installeur OpenVPN pour un usage avec OpenVZ / Proxmox 3 (non testé sous Proxmox 2) !
 
 
 --- FRENCH / FRANCAIS ---
