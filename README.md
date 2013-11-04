@@ -22,7 +22,7 @@ script compatible OpenVZ / Proxmox 3 avec Containeur sous Debian (6 & 7), Ubuntu
 installer les packets git et dos2unix :
 
 DEBIAN/UBUNTU : <b>apt-get -y install git dos2unix</b>
-CENTOS : <b>yum -y install git dos2unix</b>
+<br />CENTOS : <b>yum -y install git dos2unix</b>
 
 <b>cd /tmp && git clone git://github.com/nicolargo/openvpnscripts.git && dos2unix openvpnscripts/install.sh && chmod +x openvpnscripts/install.sh  && openvpnscripts/install.sh
 </b>
@@ -53,7 +53,7 @@ script compatibility for OpenVZ using Proxmox 3 or no. VZ running Debian (6 & 7)
 install packets git and dos2unix :
 
 DEBIAN/UBUNTU : <b>apt-get -y install git dos2unix</b>
-CENTOS : <b>yum -y install git dos2unix</b>
+<br />CENTOS : <b>yum -y install git dos2unix</b>
 
 <b>cd /tmp && git clone git://github.com/nicolargo/openvpnscripts.git && dos2unix openvpnscripts/install.sh && chmod +x openvpnscripts/install.sh  && openvpnscripts/install.sh
 </b>
